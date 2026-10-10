@@ -1,0 +1,16 @@
+# Visual Studio / Atmel / Microchip Studio
+.vs/
+*.atsuo
+Debug/
+Release/
+*.componentinfo.xml
+
+# Proteus temporales y backups
+*.workspace
+Project Backups/
+*.pdsbak
+
+# Documentos y enunciados
+*.pdf
+*.docx
+*.doc
